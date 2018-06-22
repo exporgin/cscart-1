@@ -1,0 +1,1 @@
+{style src="addons/cscart_uvdesk/styles.less"}

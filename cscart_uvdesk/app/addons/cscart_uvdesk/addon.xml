@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>cscart_uvdesk</id>
+    <version>1.0</version>
+    <priority>45156215</priority>
+    <position>156</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <supplier>Webkul</supplier>
+    <supplier_link>https://store.webkul.com/CS-Cart.html</supplier_link>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <functions>
+        <item for="install">fn_uvdesk_install</item>
+    </functions>
+    <settings>
+        <sections>
+            <section id="uvdesk_activation_settings">
+                <items>
+                    <item id="uvdesk_access_token">
+                        <name>Access Token</name>
+                        <type>text</type>
+                        <default_value></default_value>
+                    </item>
+                    <item id="uvdesk_comany_domain">
+                        <name>Company Domain</name>
+                        <type>text</type>
+                        <default_value></default_value>
+                    </item>
+                </items>
+            </section>                 
+        </sections>
+    </settings>
+    <queries>
+        <item editions="MULTIVENDOR,ULTIMATE">REPLACE INTO ?:privileges (privilege, is_default, section_id) VALUES ('manage_cscart_uvdesk', 'Y', 'addons');</item>
+        <item editions="MULTIVENDOR,ULTIMATE">REPLACE INTO  ?:privileges (privilege, is_default, section_id) VALUES ('view_cscart_uvdesk', 'Y', 'addons');</item>
+        <item for="uninstall" editions="MULTIVENDOR,ULTIMATE">DELETE FROM ?:privileges WHERE privilege LIKE 'manage_cscart_uvdesk' OR privilege LIKE 'view_cscart_uvdesk'</item>
+    </queries>   
+</addon>

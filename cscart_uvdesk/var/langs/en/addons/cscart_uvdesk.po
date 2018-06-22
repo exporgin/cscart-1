@@ -1,0 +1,167 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::cscart_uvdesk"
+msgid "UVDesk"
+msgstr "UVDesk"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::description::cscart_uvdesk"
+msgid "Ticket managing system"
+msgstr "Ticket managing system"
+
+msgctxt "Languages::uvdesk_open"
+msgid "Open"
+msgstr "Open"
+
+msgctxt "Languages::uvdesk_pending"
+msgid "Pending"
+msgstr "Pending"
+
+msgctxt "Languages::uvdesk_answered"
+msgid "Answered"
+msgstr "Answered"
+
+msgctxt "Languages::uvdesk_resolved"
+msgid "Resolved"
+msgstr "Resolved"
+
+msgctxt "Languages::uvdesk_closed"
+msgid "Closed"
+msgstr "Closed"
+
+msgctxt "Languages::uvdesk_spam"
+msgid "Spam"
+msgstr "Spam"
+
+msgctxt "Languages::uvdesk_label"
+msgid "Label"
+msgstr "Label"
+
+msgctxt "Languages::uvdesk_unassigned"
+msgid "Unassigned"
+msgstr "Unassigned"
+
+msgctxt "Languages::uvdesk_notreplied"
+msgid "Notreplied"
+msgstr "Notreplied"
+
+msgctxt "Languages::uvdesk_mine"
+msgid "Mine"
+msgstr "Mine"
+
+msgctxt "Languages::uvdesk_starred"
+msgid "Starred"
+msgstr "Starred"
+
+msgctxt "Languages::uvdesk_trashed"
+msgid "Trashed"
+msgstr "Trashed"
+
+
+msgctxt "Languages::cscart_uvdesk_menu_description"
+msgid "Uvdesk dashboard manage, tickets view, etc."
+msgstr "Uvdesk dashboard manage, tickets view, etc."
+
+msgctxt "Languages::cscart_uvdesk"
+msgid "UVDesk Dashboard"
+msgstr "UVDesk Dashboard"
+
+msgctxt "Languages::uploaded_files"
+msgid "Uploaded Files"
+msgstr "Uploaded Files"
+
+msgctxt "Languages::webkul_uvdesk"
+msgid "Webkul UVdesk"
+msgstr "Webkul UVdesk"
+
+
+msgctxt "Languages::total_replies"
+msgid "Total Replies"
+msgstr "Total Replies"
+
+msgctxt "Languages::agent"
+msgid "Agent"
+msgstr "Agent"
+
+msgctxt "Languages::write_a_reply"
+msgid "write a reply"
+msgstr "write a reply"
+
+msgctxt "Languages::create_ticket"
+msgid "Create Ticket"
+msgstr "Create Ticket"
+
+msgctxt "Languages::ticket_type"
+msgid "Ticket Type"
+msgstr "Ticket Type"
+
+msgctxt "Languages::ticket_subject"
+msgid "Ticket Subject"
+msgstr "Ticket Subject"
+
+msgctxt "Languages::ticket_message"
+msgid "Ticket Message"
+msgstr "Ticket Message"
+
+msgctxt "Languages::uvdesk_viewticket"
+msgid "UVDesk View Ticket"
+msgstr "UVDesk View Ticket"
+
+msgctxt "Languages::uvdesk_tickets"
+msgid "UVDesk Ticktes"
+msgstr "UVDesk Ticktes"
+
+msgctxt "Languages::view_ticket"
+msgid "View Ticket"
+msgstr "View Ticket"
+
+msgctxt "Languages::reply"
+msgid "Reply"
+msgstr "Reply"
+
+msgctxt "Languages::ticket_information"
+msgid "TICKET INFORMATION"
+msgstr "TICKET INFORMATION"
+
+msgctxt "Languages::uvdesk_timestamp"
+msgid "Timestamp"
+msgstr "Timestamp"
+
+msgctxt "Languages::ticket_list"
+msgid "Ticket List"
+msgstr "Ticket List"
+
+msgctxt "Languages::ticket_id"
+msgid "Ticket Id"
+msgstr "Ticket Id"
+
+msgctxt "Languages::customer_name"
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgctxt "Languages::privileges.manage_cscart_uvdesk"
+msgid "Manage UVDesk"
+msgstr "Manage UVDesk"
+
+msgctxt "Languages::privileges.view_cscart_uvdesk"
+msgid "View UVDesk"
+msgstr "View UVDesk"
+
+msgctxt "Languages::customer_create_ticket"
+msgid "Create Ticket"
+msgstr "Create Ticket"
+
+msgctxt "Languages::text_no_ticket_found"
+msgid "No Ticket Found"
+msgstr "No Ticket Found"
+
+msgctxt "Languages::uvdesk_already_account"
+msgid "Your account already exist. To manage your tickets please login."
+msgstr "Your account already exist. To manage your tickets please login."

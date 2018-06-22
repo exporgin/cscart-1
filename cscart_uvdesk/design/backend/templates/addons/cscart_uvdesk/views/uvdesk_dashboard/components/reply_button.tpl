@@ -1,0 +1,1 @@
+<a class="btn cm-submit cm-process-items  {$extra_class}" href="{$but_name}" data-ca-target-form="{$but_form}" title="{__("reply")}" data-ca-confirm-text="{$but_confirm}"><i class="icon-reply"></i>{$but_name_show} </a>

@@ -1,0 +1,11 @@
+HOW TO INSTALL:
+
+	You can install Add-on by uploading Add-on directly:
+	1. Go to Add-On > Manage Add-ons
+	2. Click on add (+) button to upload Add-on directly.
+	3. Now browse to your Add-on zip file.
+	4. Then click on Upload and install.
+	5. Read the Doc to configure it.
+	6. Done
+
+Webkul Team

@@ -1,0 +1,1 @@
+<a class="btn cm-submit cm-process-items cm-confirm {$extra_class}" data-ca-dispatch="{$but_name}" data-ca-target-form="{$but_form}" title="{__("delete_selected")}" data-ca-confirm-text="{$but_confirm}"><i class="icon-trash"></i> {$but_name_show}</a>
